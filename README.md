@@ -11,4 +11,4 @@ This repository contains the code examples from the blog post.
 
 ## Blog Post
 
-Read the full article at [One Man Crew DevLog](https://omcblog.netlify.app/blog/revolutionizing-development-ai-tools-bridging-skill-gaps)
+Read the full article at [One Man Crew DevLog](https://www.onemancrew.dev/blog/revolutionizing-development-ai-tools-bridging-skill-gaps)
